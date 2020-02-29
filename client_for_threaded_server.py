@@ -3,8 +3,10 @@ import sys
 
 def main():
     s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-    host = "127.0.0.1"
-    # replace the host ip with your server's ip when playing online
+    print('Please Enter the host\'s ip address: ')
+    host = input()
+    if(host == ''):
+        host = "127.0.0.1"
     port = 8888
 
     try:
