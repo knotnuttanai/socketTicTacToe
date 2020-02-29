@@ -1,6 +1,6 @@
 # socketTicTacToe
 
-Play TicTacToe vis socket!!.
+Play TicTacToe via socket!!.
 
 
 ## Usage
