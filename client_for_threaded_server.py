@@ -4,6 +4,7 @@ import sys
 def main():
     s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
     host = "127.0.0.1"
+    # replace the host ip with your server's ip when playing online
     port = 8888
 
     try:
