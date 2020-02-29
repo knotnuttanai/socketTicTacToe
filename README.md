@@ -1,6 +1,6 @@
-# O-X Multiplayer
+# socketTicTacToe
 
-Foobar is a Python library for dealing with word pluralization.
+Play TicTacToe vis socket!!.
 
 
 ## Usage
